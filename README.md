@@ -2,8 +2,11 @@
 tokyo-olympic-azure-data-engineering-project
 
 ![PIPELINE-preview ](https://github.com/santoshkr23/tokyo-olympic-azure-data-engineering-project/assets/60109277/66593dd4-1412-4b06-b730-60e2a23afec1)
-##Project Summary
+
+#Project Summary
+
 The Tokyo Olympic Data Engineering Project leverages various Azure services to collect, process, and analyze data related to the Tokyo Olympic Games. The key components of the project include Azure Data Factory for ETL processes, Azure Databricks for data processing and transformation, and Azure Synapse Analytics for data warehousing and advanced analytics.
+
 
 Data Sources
 Data Repository: Olympic Data on GitHub
